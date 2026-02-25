@@ -3,12 +3,14 @@
 Cybersecurity Specialist | CEO @ **KRA2SEC**  
 Offensive & Defensive Security | ICS/SCADA | Red Team & Blue Team | Pentesting | Hardening | Threat Hunting
 
-### 🧐 Mais Sobre Mim:
+---
 
-- 🔭   Atualmente sou **CEO da KRA2SEC**, focado em projetos de segurança cibernética para ambientes industriais e corporativos
-- 🤝   Aberto a colaborações em pentests, threat hunting, hardening de ICS/SCADA e Red/Blue Team exercises
-- 🌱   Sempre aprendendo novas técnicas avançadas de ataque/defesa e ferramentas de automação em segurança
-- 📫   Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/eniokraussjunior/)
+### 🧐 About Me
+
+- 🔭 Currently serving as **CEO of KRA2SEC**, leading cybersecurity projects for industrial and corporate environments  
+- 🤝 Open to collaborations in pentesting, threat hunting, ICS/SCADA hardening, and Red/Blue Team exercises  
+- 🌱 Continuously learning advanced attack and defense techniques, as well as security automation tools  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/eniokraussjunior/)
 
 ### 🔨 Linguagens e Ferramentas
 
@@ -28,9 +30,11 @@ Offensive & Defensive Security | ICS/SCADA | Red Team & Blue Team | Pentesting |
   <img src="https://img.shields.io/badge/Mitre%20ATT&CK-C8102E?style=for-the-badge&logo=shield&logoColor=white" alt="MITRE ATT&CK"/>
 </div>
 
+<div align="center">
+
 ### 📊 GitHub Stats
 
 ![Visitors](https://komarev.com/ghpvc/?username=eniokrauss&color=green&style=for-the-badge&label=Profile+views) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eniokrauss&theme=shadow-green&border_radius=10)](https://git.io/streak-stats)
 
-
+</div>
